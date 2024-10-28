@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx-app
-        image: yuvrajone/nginx-app:11
+        image: yuvrajone/nginx-app:12
         ports:
         - containerPort: 8080
 ---
